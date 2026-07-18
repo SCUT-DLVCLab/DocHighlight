@@ -1,8 +1,10 @@
-# DocHighlight: A Real-World Dataset for Document Specular Highlight Removal
+# <div align="center"> DocHighlight: A Real-World Dataset for Document Specular Highlight Removal</div>
 
-[![Paper](https://img.shields.io/badge/Paper-PRCV%202025-red)](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_8)
-[![Method](https://img.shields.io/badge/Method-DocSHRNet-orange)](https://github.com/shallweiwei/DocSHRNet)
-[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
+<div align="center">
+  <a href="https://link.springer.com/chapter/10.1007/978-981-95-5676-2_8"><img alt="SCUT DLVC Lab" src="https://img.shields.io/badge/Paper-PRCV%202025-red"></a>
+  <a href="https://github.com/shalweiwei/DocSHRNetl"><img alt="SCUT DLVC Lab" src="https://img.shields.io/badge/Method-DocSHRNet-orange"></a>
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="SCUT DLVC Lab" src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green.svg"></a>
+</div>
 
 This repository contains the **DocHighlight dataset** for the paper [**"Towards Real-World Document Specular Highlight Removal: The DocHighlight Dataset and DocSHRNet Method"**](https://link.springer.com/chapter/10.1007/978-981-95-5676-2_8) published in *Pattern Recognition and Computer Vision (PRCV 2025)*.
 
@@ -42,7 +44,7 @@ If this dataset is useful in your research or product, please cite our paper:
   author={Xu, Haowei and Zhang, Jiaxin and Cheng, Hiuyi and Zhang, Peirong and Zheng, Xuhan and Jin, Lianwen},
   title={{Towards Real-World Document Specular Highlight Removal: The DocHighlight Dataset and DocSHRNet Method}},
   booktitle="Pattern Recognition and Computer Vision",
-  year="2026",
-  pages="109--124"
+  year={2025},
+  pages={109--124}
 }
 ```
