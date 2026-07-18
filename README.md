@@ -39,18 +39,10 @@ If this dataset is useful in your research or product, please cite our paper:
 
 ```bibtex
 @InProceedings{xu2026dochighlight,
-  author="Xu, Haowei
-  and Zhang, Jiaxin
-  and Cheng, Hiuyi
-  and Zhang, Peirong
-  and Zheng, Xuhan
-  and Jin, Lianwen",
+  author={Xu, Haowei and Zhang, Jiaxin and Cheng, Hiuyi and Zhang, Peirong and Zheng, Xuhan and Jin, Lianwen},
   title={{Towards Real-World Document Specular Highlight Removal: The DocHighlight Dataset and DocSHRNet Method}},
   booktitle="Pattern Recognition and Computer Vision",
   year="2026",
-  publisher="Springer Nature Singapore",
-  address="Singapore",
-  pages="109--124",
-  isbn="978-981-95-5676-2"
+  pages="109--124"
 }
 ```
